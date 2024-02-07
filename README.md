@@ -1,5 +1,3 @@
-# Mangata-Metadata
-Mangata Metadata Betiği
 {
   "name": "multijet",
   "website": "https://github.com/mcyucel",
